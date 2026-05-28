@@ -1,0 +1,23 @@
+{
+  "name": "@adhamnasr/dashboard",
+  "version": "1.0.0",
+  "description": "A package for posting logs to dashboard app",
+  "keywords": [
+    "Dash"
+  ],
+  "homepage": "https://github.com/adham-nasr/dashboard-package#readme",
+  "bugs": {
+    "url": "https://github.com/adham-nasr/dashboard-package/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adham-nasr/dashboard-package.git"
+  },
+  "license": "ISC",
+  "author": "Adham",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
